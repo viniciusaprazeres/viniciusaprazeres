@@ -20,13 +20,13 @@
 
 ### <div align="center"> 🚀 Hello! I'm Vinicius, a full-stack student and developer 👨🏽‍💻 </div> <br/>
 
-- 🔭 I’m currently working on [Elas Exatas.](https://github.com/ElasExatas/Elas_Exatas)
+- 🔭 I’m currently working on [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
 
-- 🌱 I’m currently learning **Java, Python, SQL and Spring Boot.**
+- 🌱 I’m currently learning **Java, Python, SQL and Spring Boot**.
 
-- 💬 Ask me about **everything.**
+- 💬 Ask me about **everything**.
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces. 
 
 ##
 
