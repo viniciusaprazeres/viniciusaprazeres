@@ -18,7 +18,7 @@
 
 
 
-### <div align="center"> 🚀 I'm full-stack student and developer 👨🏽‍💻 </div> <br/> <br/>
+### <div align="center"> 🚀 Hello, I'm Vinicius,a full-stack student and developer 👨🏽‍💻 </div> <br/> <br/>
 
 - 🔭 I’m currently working on [Elas Exatas.](https://github.com/ElasExatas/Elas_Exatas)
 
@@ -30,7 +30,7 @@
 
 ##
 
-### 🧰 Languages & Technologies 🦾 <br/>
+### 🧰 Technologies 🦾 <br/>
 
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="SpringBoot" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
