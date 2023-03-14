@@ -28,7 +28,10 @@
 
 [![Vinicius' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciusaprazeres&bg_color=0d1117&color=00c8fa&line=5900ff&point=00c8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🧰 Languages and Technologies
+
+##
+
+### 🧰 Languages and Technologies 🦾 <br/>
 
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="SpringBoot" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
