@@ -10,11 +10,15 @@
 
 ![Vinicius' Github MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusaprazeres&theme=tokyonight&hide_border=false&border_color=5900ff&include_all_commits=false&count_private=true&layout=compact)
 
--->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00c8fa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinicius;I'm+26+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg) <br/> <br/> <br/>
 
-### <div align="center"> 🚀 A full-stack student and developer 👨🏽‍💻 </div> <br/> <br/>
+[![Vinicius' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciusaprazeres&bg_color=0d1117&color=00c8fa&line=5900ff&point=00c8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+-->
+
+
+
+### <div align="center"> 🚀 I'm full-stack student and developer 👨🏽‍💻 </div> <br/> <br/>
 
 - 🔭 I’m currently working on [Elas Exatas.](https://github.com/ElasExatas/Elas_Exatas)
 
@@ -26,12 +30,7 @@
 
 ##
 
-[![Vinicius' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciusaprazeres&bg_color=0d1117&color=00c8fa&line=5900ff&point=00c8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-##
-
-### 🧰 Languages and Technologies 🦾 <br/>
+### 🧰 Languages & Technologies 🦾 <br/>
 
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="SpringBoot" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
