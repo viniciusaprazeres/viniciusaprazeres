@@ -27,13 +27,13 @@
 
 - 💬 Ask me about **everything**.
 
-- ⚡ Fun fact: I use tabs over spaces. <br/> <br/> <br/> <br/>
+- ⚡ Fun fact: I use tabs over spaces. <br/> <br/> <br/>
 
 
 
 ### 🏆 Statistics #️⃣ <br/> <br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&layout=compact&locale=en" alt="viniciusaprazeres" /></p>
+<p>&nbsp;<img align="left" hspace="20px" src="https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&layout=compact&locale=en" alt="viniciusaprazeres" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&locale=en&layout=compact" alt="viniciusaprazeres" /></p> <br/> <br/> <br/>
 
