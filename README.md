@@ -6,19 +6,20 @@
 
 #
 
-![Vinicius' Github stats](https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&show_icons=true&theme=tokyonight&border_color=5900ff&count_private=true)
+[Vinicius' Github stats](https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&show_icons=true&theme=tokyonight&border_color=5900ff&count_private=true)
+
 
 ![Vinicius' Github MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusaprazeres&theme=tokyonight&hide_border=false&border_color=5900ff&include_all_commits=false&count_private=true&layout=compact)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00c8fa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinicius;I'm+26+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg) <br/> <br/> <br/>
 
-[![Vinicius' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciusaprazeres&bg_color=0d1117&color=00c8fa&line=5900ff&point=00c8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+![Vinicius' Github MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusaprazeres&theme=tokyonight&hide_border=false&border_color=5900ff&include_all_commits=false&count_private=true&layout=compact)
+
+![![Vinicius' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciusaprazeres&bg_color=0d1117&color=00c8fa&line=5900ff&point=00c8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 -->
 
-
-
-### <div align="center"> 🚀 Hello! I'm Vinicius, a full-stack student and developer 👨🏽‍💻 </div> <br/>
+### <div align="center"> 🚀 Hello! I'm Vinicius, a full-stack student and developer 👨🏽‍💻 </div> <br/> <br/> <br/>
 
 - 🔭 I’m currently working on [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
 
@@ -26,9 +27,16 @@
 
 - 💬 Ask me about **everything**.
 
-- ⚡ Fun fact: I use tabs over spaces. 
+- ⚡ Fun fact: I use tabs over spaces. <br/> <br/> <br/> <br/>
 
-##
+
+
+### 🏆 Statistics #️⃣ <br/> <br/>
+
+<p>&nbsp;<img align="left" hspace="60px" src="https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&layout=compact&locale=en" alt="viniciusaprazeres" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&locale=en&layout=compact" alt="viniciusaprazeres" /></p> <br/> <br/> <br/>
+
 
 ### 🧰 Technologies 🦾 <br/> <br/>
 
