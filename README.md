@@ -33,9 +33,9 @@
 
 ### 🏆 Statistics #️⃣ <br/> <br/>
 
-<p>&nbsp;<img align="left" hspace="20px" src="https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&layout=compact&locale=en" alt="viniciusaprazeres" /></p>
+<p>&nbsp;<img align="left" hspace="20px" src="https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&layout=compact&hide_title=true&locale=en" alt="viniciusaprazeres" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&locale=en&layout=compact" alt="viniciusaprazeres" /></p> <br/> <br/> <br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&locale=en&layout=compact&hide_title=true" alt="viniciusaprazeres" /></p> <br/> <br/> <br/>
 
 
 ### 🧰 Technologies 🦾 <br/> <br/>
