@@ -14,7 +14,7 @@
 ### 🏆 Statistics #️⃣ <br/> <br/>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&layout=compact&hide_title=true&locale=en" alt="viniciusaprazeres" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&layout=compact&hide_title=true&locale=en" alt="viniciusaprazeres" />
 </div>
 
 <br/>
