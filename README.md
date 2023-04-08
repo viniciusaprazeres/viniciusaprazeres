@@ -38,6 +38,3 @@
 
 
 <!-- ### 🔔 Contact 📣 <br/> <br/>-->
-
-
-![Snake animation](https://github.com/viniciusaprazeres/viniciusaprazeres/blob/output/github-contribution-grid-snake.svg)
