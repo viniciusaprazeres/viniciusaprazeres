@@ -1,6 +1,6 @@
-### <div align="center"> 🚀 Hello! I'm Vinicius, a full-stack student and developer 👨🏽‍💻 </div> <br/> <br/>
+<!-- ### <div align="center"> 🚀 Hello! I'm Vinicius, a full-stack student and developer 👨🏽‍💻 </div> <br/> <br/>
 
-- 🔭 I’m currently working on [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
+ - 🔭 I’m currently working on [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
 
 - 🧠 I’m currently learning **Spring Boot with Java, Python, SQL, React and Typescript**.
 
@@ -8,10 +8,25 @@
 
 - ⚡ Fun fact: I use tabs over spaces.
 
-- 📫 How to reach me **viniciusaprazeres@gmail.com** <br/> <br/> <br/>
+- 📫 How to reach me **viniciusaprazeres@gmail.com** <br/> <br/> <br/> -->
 
 
-### 🏆 Statistics #️⃣ <br/> <br/>
+
+ ### <div align="center"> 🚀 Olá! Sou Vinicius, um estudante e desenvolvedor Full-Stack 👨🏽‍💻 </div> <br/> <br/>
+
+
+- 🔭 Eu estou trabalhando no projeto [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
+
+- 🧠 Atualmente estou aprendendo **Java com Spring Boot, Python, SQL, React e Typescript**.
+
+- 💬 Pergunte-me sobre **Tudo**.
+
+- ⚡ **Curiosidade:** Eu gosto de usar **Tab** ao invés de **Espaço**.
+
+- 📫 Como chegar até mim **viniciusaprazeres@gmail.com** <br/> <br/> <br/>
+
+
+### 🏆 Estatisticas #️⃣ <br/> <br/>
 
 <div>
 <img width="425px" src="https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&layout=compact&hide_title=true&locale=en" alt="viniciusaprazeres" />
@@ -24,7 +39,7 @@
 
 <br/>
 
-### 🧰 Technologies 🦾 <br/> <br/>
+### 🧰 Tecnologias 🦾 <br/> <br/>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="SpringBoot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
