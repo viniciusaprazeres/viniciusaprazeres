@@ -15,9 +15,9 @@
  ### <div align="center"> 🚀 Olá! Sou Vinicius, um estudante e desenvolvedor Full-Stack 👨🏽‍💻 </div> <br/> <br/>
 
 
-- 🔭 Eu estou trabalhando no projeto [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
+- 🔭 Eu estou envolvido no projeto [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
 
-- 🧠 Atualmente estou aprendendo **Java com Spring Boot, Python, SQL, React e Typescript**.
+- 🧠 Atualmente trabalho com **Java com Spring Boot, SQL, React e Typescript**.
 
 - 💬 Pergunte-me sobre **Tudo**.
 
