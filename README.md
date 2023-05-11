@@ -17,7 +17,7 @@
 
 - 🔭 Eu estou envolvido no projeto [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
 
-- 🧠 Atualmente trabalho com **Java com Spring Boot, SQL, React e Typescript**.
+- 🧠 Atualmente trabalho com **Java e Spring Boot, SQL, React e Typescript**.
 
 - 💬 Pergunte-me sobre **Tudo**.
 
