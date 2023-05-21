@@ -19,7 +19,7 @@
 
 - 🛠️ Trabalho com **Java, Spring Boot, SQL, React e Typescript**.
 
-- 🧠 Atualmente estou estudando **Docker** e **Python**.
+- 🧠 Atualmente estou estudando **Docker e Python**.
 
 - 💬 Pergunte-me sobre **Tudo**.
 
