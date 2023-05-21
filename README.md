@@ -1,4 +1,4 @@
-<!-- ### <div align="center"> 🚀 Hello! I'm Vinicius, a full-stack student and developer 👨🏽‍💻 </div> <br/> <br/>
+<!-- ### <div align="center"> 🚀 Hello! I'm Vinicius, a full-stack developer 👨🏽‍💻 </div> <br/> <br/>
 
  - 🔭 I’m currently working on [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
 
@@ -12,12 +12,14 @@
 
 
 
- ### <div align="center"> 🚀 Olá! Sou Vinicius, um estudante e desenvolvedor Full-Stack 👨🏽‍💻 </div> <br/> <br/>
+ ### <div align="center"> 🚀 Olá! Sou Vinicius, Desenvolvedor Full-Stack 👨🏽‍💻 </div> <br/> <br/>
 
 
 - 🔭 Eu estou envolvido no projeto [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
 
-- 🧠 Atualmente trabalho com **Java e Spring Boot, SQL, React e Typescript**.
+- 🛠️ Trabalho com **Java e Spring Boot, SQL, React e Typescript**.
+
+- 🧠 Atualmente estou estudando **Docker** e **Python**.
 
 - 💬 Pergunte-me sobre **Tudo**.
 
@@ -50,7 +52,5 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <br/> <br/> <br/>
-
-
 
 <!-- ### 🔔 Contact 📣 <br/> <br/>-->
