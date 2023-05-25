@@ -25,7 +25,7 @@
 
 - ⚡ **Curiosidade:** Eu gosto de usar **Tab** ao invés de **Espaço**.
 
-- 📫 Como chegar até mim **viniciusaprazeres@gmail.com** <br/> <br/> <br/>
+- 📫 Como chegar até mim **** <br/> <br/> <br/>
 
 
 ### 🏆 Estatisticas #️⃣ <br/> <br/>
