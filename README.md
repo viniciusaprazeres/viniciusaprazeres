@@ -1,18 +1,4 @@
-<!-- ### <div align="center"> 🚀 Hello! I'm Vinicius, a full-stack developer 👨🏽‍💻 </div> <br/> <br/>
-
- - 🔭 I’m currently working on [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
-
-- 🧠 I’m currently learning **Spring Boot with Java, Python, SQL, React and Typescript**.
-
-- 💬 Ask me about **everything**.
-
-- ⚡ Fun fact: I use tabs over spaces.
-
-- 📫 How to reach me **viniciusaprazeres@gmail.com** <br/> <br/> <br/> -->
-
-
-
- ### <div align="center"> 🚀 Olá! Sou Vinicius, Desenvolvedor Full-Stack 👨🏽‍💻 </div> <br/> <br/>
+ ### <div align="center"> 🚀 Olá! Sou Vinicius, Desenvolvedor 👨🏽‍💻 </div> <br/> <br/>
 
 
 - 🔭 Eu estou envolvido no projeto [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
@@ -21,11 +7,11 @@
 
 - 🧠 Atualmente estou estudando **Docker e Python**.
 
-- 💬 Pergunte-me sobre **Tudo**.
+- 💬 Pergunte-me sobre **Tudo**. <br/> <br/> <br/>
 
-- ⚡ **Curiosidade:** Eu gosto de usar **Tab** ao invés de **Espaço**.
+<!-- - ⚡ **Curiosidade:** Eu gosto mais de usar **Tab** do que **Espaço**. 
 
-- 📫 Como chegar até mim **** <br/> <br/> <br/>
+- 📫 Como chegar até mim **** -->
 
 
 ### 🏆 Estatisticas #️⃣ <br/> <br/>
@@ -47,10 +33,12 @@
 <img align="left" alt="SpringBoot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <br/> <br/> <br/>
 
 <!-- ### 🔔 Contact 📣 <br/> <br/>-->
