@@ -17,7 +17,7 @@
 ### 🏆 Estatisticas #️⃣ <br/> <br/>
 
 <div>
-<img width="425px" src="https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&layout=compact&hide_title=true&locale=en" alt="viniciusaprazeres" />
+<img width="425px" src="https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&layout=compact&hide_title=true&hide_rank=true&locale=en" alt="viniciusaprazeres" />
 </div>
 
 <br/>
@@ -36,10 +36,12 @@
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=aws"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
 <br/> <br/> <br/>
 
 <!-- ### 🔔 Contact 📣 <br/> <br/>-->
