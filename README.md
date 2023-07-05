@@ -1,11 +1,11 @@
- ### <div align="center"> 🚀 Olá! Sou Vinicius, Desenvolvedor 👨🏽‍💻 </div> <br/> <br/>
+ ### <div align="center"> 🚀 Olá! Sou Vinicius, Desenvolvedor Backend 👨🏽‍💻 </div> <br/> <br/>
 
 
 - 🔭 Eu estou envolvido no projeto [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
 
 - 🛠️ Trabalho com **Java, Spring Boot, SQL, React e Typescript**.
 
-- 🧠 Atualmente estou estudando **Docker e Python**.
+- 🧠 Atualmente estou estudando **AWS, Docker e Python**.
 
 - 💬 Pergunte-me sobre **Tudo**. <br/> <br/> <br/>
 
@@ -34,6 +34,7 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=aws"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
