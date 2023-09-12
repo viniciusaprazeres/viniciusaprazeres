@@ -1,17 +1,13 @@
- ### <div align="center"> 🚀 Olá! Sou Vinicius, Desenvolvedor Backend 👨🏽‍💻 </div> <br/> <br/>
+ ### <div align="center"> 🚀 Olá! Eu sou Vinicius Prazeres 👨🏽‍💻 </div> <br/> <br/>
 
 
 - 🔭 Eu estou envolvido no projeto [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
 
-- 🛠️ Trabalho com **Java, Spring Boot, SQL, React e Typescript**.
+- 🛠️ Trabalho com **AWS, Java, Spring Boot, SQL, React e Typescript**.
 
-- 🧠 Atualmente estou estudando **AWS, Docker e Python**.
+- 🧠 Atualmente estou estudando **Python, Data Science e Docker**.
 
 - 💬 Pergunte-me sobre **Tudo**. <br/> <br/> <br/>
-
-<!-- - ⚡ **Curiosidade:** Eu gosto mais de usar **Tab** do que **Espaço**. 
-
-- 📫 Como chegar até mim **** -->
 
 
 ### 🏆 Estatisticas #️⃣ <br/> <br/>
