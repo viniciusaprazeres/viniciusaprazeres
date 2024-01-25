@@ -3,13 +3,13 @@
 
 - 🔭 Eu estou envolvido no projeto [Elas Exatas](https://github.com/ElasExatas/Elas_Exatas).
 
-- 🛠️ Trabalho com **AWS, Java, Spring Boot, SQL, React e Typescript**.
+- 🛠️ Trabalho com **SQL, AWS, Java, Spring Boot, React e Typescript**.
 
-- 🧠 Atualmente estou estudando **Python, Data Science e Docker**.
+- 🧠 Atualmente estou estudando **Python e Data Science**.
 
-- 💬 Pergunte-me sobre **Tudo**. <br/> <br/> <br/>
+<!-- - 💬 Pergunte-me sobre **Tudo**.  --> 
 
-
+<br/> <br/>
 ### 🏆 Estatisticas #️⃣ <br/> <br/>
 
 <div>
@@ -23,18 +23,18 @@
 
 <br/>
 
-### 🧰 Tecnologias 🦾 <br/> <br/>
+### 🧰 Habilidades 🦾 <br/> <br/>
 
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="SpringBoot" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
 <img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=aws"/>
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="SpringBoot" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
