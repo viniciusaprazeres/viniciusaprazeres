@@ -10,7 +10,7 @@
 <!-- - 💬 Pergunte-me sobre **Tudo**.  --> 
 
 <br/> <br/>
-### 🏆 Estatisticas #️⃣ <br/> <br/>
+### 🏆 Estatisticas <br/> <br/>
 
 <div>
 <img width="425px" src="https://github-readme-stats.vercel.app/api?username=viniciusaprazeres&theme=tokyonight&border_color=5900ff&count_private=true&show_icons=true&layout=compact&hide_title=true&hide_rank=true&locale=en" alt="viniciusaprazeres" />
@@ -23,7 +23,7 @@
 
 <br/>
 
-### 🧰 Habilidades 🦾 <br/> <br/>
+### 🦾 Habilidades <br/> <br/>
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
